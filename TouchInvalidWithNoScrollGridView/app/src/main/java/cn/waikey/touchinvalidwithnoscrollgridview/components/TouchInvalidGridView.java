@@ -1,4 +1,4 @@
-package cn.waikey.touchinvalidwithnoscrollgridview;
+package cn.waikey.touchinvalidwithnoscrollgridview.components;
 
 import android.content.Context;
 import android.util.AttributeSet;
